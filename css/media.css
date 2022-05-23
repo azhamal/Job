@@ -1,0 +1,16 @@
+@media screen and (max-width: 320px)  {
+
+    .header{
+        font-size: 12px;
+    }
+
+
+
+
+
+    .card-title,
+    .card-title span {
+    font-size: 18px;
+}
+
+}
